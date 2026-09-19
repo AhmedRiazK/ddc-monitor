@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.example.DDCMonitor
+Exec=/usr/bin/python3 /usr/lib/ddc-monitor/service.py

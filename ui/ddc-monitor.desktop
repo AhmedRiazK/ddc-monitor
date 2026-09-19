@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DDC Monitor
+Comment=Control monitor brightness and contrast
+Exec=/usr/bin/ddc-monitor
+Icon=video-display
+Terminal=false
+Type=Application
+Categories=Settings;HardwareSettings;
+StartupNotify=true
