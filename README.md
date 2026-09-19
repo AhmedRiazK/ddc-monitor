@@ -54,3 +54,7 @@ ddc-monitor/
 ```
 
 The project is intended as a foundation for a native Linux monitor-control application with future GNOME desktop integration and support for additional DDC/CI features.
+
+### AI-Assisted Development
+
+This project was developed with substantial assistance from AI. AI-generated code and suggestions were used during implementation, architecture design, debugging, and documentation. The code was reviewed, modified, integrated, and tested as part of the development process.
